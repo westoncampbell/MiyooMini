@@ -30,14 +30,14 @@ Emulators:
 - Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. [https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)](https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS))
 
 
-| System | PAK name | Core | Default ROM Folder | ROM Extensions | Requires BIOS? | Link |
-| ------ | ---------| ---- | ------------------ | -------------- |--------------- | -----|
+| System | PAK name | Core | Default ROM Folder | ROM Extensions | Requires BIOS? |
+| ------ | ---------| ---- | ------------------ | -------------- |--------------- |
 | Amstrad - CPC | CPC.pak | CrocoDS `crocods_libretro.so` | Amstrad - CPC (CPC) | `.cpc` `.dsk` `.zip` `.7z` | No |
 | Arcade - Capcom Play System 1 | CPS1.pak | FB Alpha 2012 CPS-1 `fbalpha2012_cps1_libretro.so` | Arcade - Capcom Play System 1 (CPS1) | `.zip` `.7z` `.cue`  | No |
 | Arcade - Capcom Play System 2 | CPS2.pak | FB Alpha 2012 CPS-2 `fbalpha2012_cps2_libretro.so` | Arcade - Capcom Play System 2 (CPS1) | `.zip` `.7z` `.cue`  | No |
 | Arcade - Capcom Play System 3 | CPS3.pak | FB Alpha 2012 CPS-3 `fbalpha2012_cps3_libretro.so` | Arcade - Capcom Play System 3 (CPS1) | `.zip` `.7z` `.cue`  | No |
-| Arcade - FinalBurn Alpha | FBA.pak | FB Alpha `fbalpha_libretro.so` | Arcade - FinalBurn Alpha (FBA)  | `.zip` `.7z`  | neogeo.zip  | [Docs](https://docs.libretro.com/library/mame2003_plus/)
-| Arcade - MAME 2003+ | ARCADE.pak | MAME 2003-Plus `mame2003_plus_libretro.so` | Arcade - MAME 2003+ (ARCADE) | `.zip` `chd` | No |
+| Arcade - FinalBurn Alpha | FBA.pak | FB Alpha `fbalpha_libretro.so` | Arcade - FinalBurn Alpha (FBA)  | `.zip` `.7z`  | neogeo.zip |
+| Arcade - MAME 2003+ | ARCADE.pak | [MAME 2003-Plus](https://docs.libretro.com/library/mame2003_plus/) `mame2003_plus_libretro.so` | Arcade - MAME 2003+ (ARCADE) | `.zip` `chd` | No |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
