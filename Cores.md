@@ -29,11 +29,11 @@ Fully support cores are highlighted in :heavy_check_mark: BOLD. Experimental cor
 - Extensions: .cue .CUE .ccd .CCD .lha .LHA .nrg .NRG .mds .MDS .iso .ISO .m3u .M3U .chd .CHD
 - Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. [https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)](https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS))
 
-:heavy_check_mark: Amstrad CPC
+:heavy_check_mark: Amstrad - CPC
 
-- Emulator: :heavy_check_mark: lr-crocods
-- Rom Folder: CPC
-- Extensions: .cpc .CPC .dsk .DSK .zip .ZIP .7z .7Z
+- Emulator: :heavy_check_mark: CrocoDS (crocods_libretro.so)
+- Rom Folder: Amstrad - CPC (CPC)
+- Extensions: .cpc .dsk .zip .7z
 - Bios: None
 
 :heavy_check_mark: Arcade
