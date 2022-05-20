@@ -29,14 +29,14 @@ Fully support cores are highlighted in **BOLD.** Experimental cores are not high
 - Extensions: .cue .CUE .ccd .CCD .lha .LHA .nrg .NRG .mds .MDS .iso .ISO .m3u .M3U .chd .CHD
 - Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. [https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)](https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS))
 
-:heavy_check_mark: Amstrad CPC
+**Amstrad CPC**
 
 - Emulator: **lr-crocods**
 - Rom Folder: CPC
 - Extensions: .cpc .CPC .dsk .DSK .zip .ZIP .7z .7Z
 - Bios: None
 
-:heavy_check_mark: Arcade
+**Arcade**
 
 - Emulator: **lr-mame2003plus,** lr-fbalpha2012, lr-fbneo, lr-mame2003, lr-mame2000
 - Mame required rom set version: MAME 0.78 (aka 2003plus reference set) - Required ROM Version: FBAlpha v0.2.97.29  (v0.2.97.40, v0.2.97.42, v0.2.97.43 and v0.2.97.44 may work as well). 
@@ -45,7 +45,7 @@ Fully support cores are highlighted in **BOLD.** Experimental cores are not high
 - Bios: pgm.zip (for PGM games only like Knights of Valour and DoDonPachi)
 - To obtain the best results, search for a rom compatible with Mame2003+
 
-Atari 800
+:warning: Atari 800
 
 - Emulator: lr-atari800
 - Rom Folder: EIGHTHUNDRED
@@ -59,7 +59,7 @@ Atari 800
 - Extensions: .a26 .A26 .bin .BIN .zip .ZIP .7z .7Z
 - Bios: None
 
-Atari 5200
+:warning: Atari 5200
 
 - Emulator: lr-atari800
 - Rom Folder: FIFTYTWOHUNDRED
@@ -88,7 +88,7 @@ Atari 5200
 - Bios: tos.img 
 _The plain ST mode only works with TOS 1.00, 1.02, 1.04, or 2.06. STE mode requires any of the TOS versions 1.xx or 2.xx. TOS 3.0x is for TT, and TOS 4.0x is for Falcon._
 
-Cannonball (Outrun Port)
+:warning: Cannonball (Outrun Port)
 
 - Emulator: lr-cannonball
 - Rom Folder: CANNONBALL
@@ -103,7 +103,7 @@ Cannonball (Outrun Port)
 - Bios: coleco.rom (Verified working MD5:2C66F5911E5B42B8EBE113403548EEE7)
 - Notes: The blueMSX core requires the 'Databases' and 'Machines' folders from a full installation of blueMSX. These are included by default. Ensure “Machine Type” is set to Colecovision and “Mapper Type” is set to Auto.
 
-Commodore 64/VIC-20/PET
+:warning: Commodore 64/VIC-20/PET
 
 - Emulator: lr-vice\_x64
 - Rom Folder: COMMODORE
@@ -147,14 +147,14 @@ https://github.com/libretro/daphne
 - Bios: None
 - An amazing experience on the Miyoo Mini at a solid 60fps.
 
-Dreamcast VMU
+:warning: Dreamcast VMU
 
 - Emulator: lr-vemulator
 - Rom Folder: VMU
 - Extensions: .vms .VMS .bin .BIN
 - Bios: None
 
-EasyRPG
+:warning: EasyRPG
 
 - Emulator: lr-easyrpg
 - Rom Folder: EASYRPG
@@ -291,21 +291,21 @@ EasyRPG
 - Extensions: .bin .BIN
 - Bios: o2rom.bin
 
-OpenBOR
+:warning: OpenBOR
 
 - Emulator: OpenBOR Standalone
 - Rom Folder: /RApp/OpenBOR/paks
 - Extensions: .pak .PAK
 - Bios: none
 
-PC98
+:warning: PC98
 
 - Emulator: quasi88
 - Rom Folder: PCNINETYEIGHT
 - Extensions: .d88 .D88 .fdi .FDI .hdi .HDI .zip .ZIP
 - Bios: None
 
-PC98
+:warning: PC98
 
 - Emulator: lr-nekop2
 - Rom Folder: PCNINETYEIGHT
@@ -333,7 +333,7 @@ PC98
 - Extensions: .pce .PCE .ccd .CCD .iso .ISO .img .IMG .chd .CHD .cue .CUE .chd .CHD
 - Bios: syscard3.pce
 
-PC-FX
+:warning: PC-FX
 
 - Emulator: lr-mednafen-pcfx
 - Rom Folder: PCFX
@@ -399,7 +399,7 @@ PC-FX
 - Extensions: .bin .BIN .chd .CHD .cue .CUE .iso .ISO
 - Bios: bios\_CD\_U.bin, bios\_CD\_E.bin, bios\_CD\_J.bin
 
-Sega Saturn
+:warning: Sega Saturn
 
 - Emulator: lr-mednafen-saturn
 - Rom Folder: SATURN
@@ -414,14 +414,14 @@ Sega Saturn
 - Extensions: .7z .7Z .bin .BIN .sg .SG .zip .ZIP
 - Bios: None
 
-Sharp X1
+:warning: Sharp X1
 
 - Emulator: lr-x1
 - Rom Folder: XONE
 - Extensions: .dx1 .DX1 .zip .ZIP .2d .2D .2hd .2HD .tfd .TFD .d88 .D88 .88d .88D .hdm .HDM .xdf .XDF .dup .DUP .cmd .CMD
 - Bios: IPLROM.X1, IPLROM.X1T (need to be placed in a folder named xmil within the bios folder)
 
-Sharp X68000
+:warning: Sharp X68000
 
 - Emulator: lr-px68k
 - Rom Folder: SHARP
@@ -464,7 +464,7 @@ Sharp X68000
 - Extensions: .tic .TIC
 - Bios: None
 
-Uzebox
+:warning: Uzebox
 
 - Emulator: lr-uzem
 - Rom Folder: UZEBOX
@@ -508,7 +508,7 @@ Uzebox
 - Extensions: .ws .WS .pc2 .PC2 .zip .ZIP .7z .7Z
 - Bios: None
 
-ZX-81
+:warning: ZX-81
 
 - Emulator: lr-81
 - Rom Folder: ZXEIGHTYONE
