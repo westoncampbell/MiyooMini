@@ -32,7 +32,7 @@ Emulators:
 
 | System | PAK name | Core | Default ROM Folder | ROM Extensions | Requires BIOS? |
 | ------ | -------- | ---- | ------------------ | -------------- |--------------- |
-| Amstrad - CPC | `CPC.pak` | `crocods_libretro.so` | Amstrad - CPC (CPC) | `.cpc`,`.dsk`, `.zip`, `.7z` | No |
+| Amstrad - CPC | `CPC.pak` | `crocods_libretro.so` | Amstrad - CPC (CPC) | `.cpc` `.dsk` `.zip` `.7z` | No |
 
 
 
