@@ -6,18 +6,6 @@ Fully support cores are highlighted in **BOLD.** Experimental cores are not high
 
 **Emulators:**
 
-
-
-
-
-
-
-
-
-
-
-
-
 3DO
 
 - Emulator: lr-opera
@@ -41,7 +29,7 @@ Amiga CD32
 - Extensions: .cue .CUE .ccd .CCD .lha .LHA .nrg .NRG .mds .MDS .iso .ISO .m3u .M3U .chd .CHD
 - Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. [https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)](https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS))
 
-**Amstrad CPC**
+Amstrad CPC :heavy_check_mark:
 
 - Emulator: **lr-crocods**
 - Rom Folder: CPC
