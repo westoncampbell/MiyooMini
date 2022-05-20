@@ -1,3 +1,33 @@
+**Amstrad - CPC**
+
+- Emulator: CrocoDS `crocods_libretro.so`
+- Rom Folder: Amstrad - CPC (CPC)
+- Extensions: .cpc .dsk .zip .7z
+- Bios: None
+
+**Arcade - Capcom Play System 1 **
+
+- Emulator: FB Alpha 2012 CPS-1 `fbalpha2012_cps1_libretro.so`
+- Rom Folder: Arcade - Capcom Play System 1 (CPS1)
+- Extensions:
+- Bios: None
+
+**Arcade - Capcom Play System 2 **
+
+- Emulator: FB Alpha 2012 CPS-2 `fbalpha2012_cps2_libretro.so`
+- Rom Folder: Arcade - Capcom Play System 2 (CPS2)
+- Extensions:
+- Bios: None
+
+**Arcade - Capcom Play System 3 **
+
+- Emulator: FB Alpha 2012 CPS-3 `fbalpha2012_cps3_libretro.so`
+- Rom Folder: Arcade - Capcom Play System 3 (CPS3)
+- Extensions:
+- Bios: None
+
+
+
 | System | PAK name | Core | Default ROM Folder | ROM Extensions | Requires BIOS? |
 | ------ | ---------| ---- | ------------------ | -------------- |--------------- |
 | Amstrad - CPC | CPC.pak | CrocoDS `crocods_libretro.so` | Amstrad - CPC (CPC) | ??? | No |
