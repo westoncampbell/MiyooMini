@@ -29,7 +29,14 @@ Emulators:
 - Extensions: .cue .CUE .ccd .CCD .lha .LHA .nrg .NRG .mds .MDS .iso .ISO .m3u .M3U .chd .CHD
 - Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. [https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)](https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS))
 
-:heavy_check_mark: Amstrad - CPC
+
+| System | PAK name | Core | Default ROM Folder | ROM Extensions | Requires BIOS? |
+| ------ | -------- | ---- | ------------------ | -------------- |--------------- |
+| Amstrad - CPC | `CPC.pak` | `crocods_libretro.so` | Amstrad - CPC (CPC) | `.cpc`,`.dsk`, `.zip`, `.7z` | No |
+
+
+
+:green_circle: Amstrad - CPC
 
 - Emulator: :heavy_check_mark: CrocoDS (crocods_libretro.so)
 - Rom Folder: Amstrad - CPC (CPC)
