@@ -6,7 +6,7 @@ Fully support cores are highlighted in **BOLD.** Experimental cores are not high
 
 **Emulators:**
 
-3DO
+:warning: 3DO
 
 - Emulator: lr-opera
 - Rom Folder: PANASONIC
@@ -14,7 +14,7 @@ Fully support cores are highlighted in **BOLD.** Experimental cores are not high
 - Bios: panafz1.bin or panafz10.bin or panafz10-norsa.bin or panafz10e-anvil.bin or panafz10e-anvil-norsa.bin or panafz1j.bin or panafz1j-norsa.bin or goldstar.bin or sanyotry.bin or 3do\_arcade\_saot.bin See this link for more details. <https://docs.libretro.com/library/opera/#bios>
 - Notes: This will never run full speed!
 
-Amiga
+:warning: Amiga
 
 - Emulator: lr-puae, lr-uae4arm
 - Rom Folder: AMIGA
@@ -22,21 +22,21 @@ Amiga
 - Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. <https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)>
 
 
-Amiga CD32
+:warning: Amiga CD32
 
 - Emulator: lr-uae4arm
 - Rom Folder: AMIGACD
 - Extensions: .cue .CUE .ccd .CCD .lha .LHA .nrg .NRG .mds .MDS .iso .ISO .m3u .M3U .chd .CHD
 - Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. [https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)](https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS))
 
-Amstrad CPC :heavy_check_mark:
+:heavy_check_mark: Amstrad CPC
 
 - Emulator: **lr-crocods**
 - Rom Folder: CPC
 - Extensions: .cpc .CPC .dsk .DSK .zip .ZIP .7z .7Z
 - Bios: None
 
-**Arcade**
+:heavy_check_mark: Arcade
 
 - Emulator: **lr-mame2003plus,** lr-fbalpha2012, lr-fbneo, lr-mame2003, lr-mame2000
 - Mame required rom set version: MAME 0.78 (aka 2003plus reference set) - Required ROM Version: FBAlpha v0.2.97.29  (v0.2.97.40, v0.2.97.42, v0.2.97.43 and v0.2.97.44 may work as well). 
