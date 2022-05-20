@@ -1,10 +1,10 @@
-:heavy_check_mark: Important Notes: 
+Important Notes: 
 
 All bios files go into the BIOS folder located on the root of your SD unless specifically stated otherwise in the emulators list below. Bios file names and extensions are case sensitive!
 
 Fully support cores are highlighted in :heavy_check_mark: BOLD. Experimental cores are not highlighted and are hidden behind "Expert View”. 
 
-:heavy_check_mark: Emulators:
+Emulators:
 
 :warning: 3DO
 
