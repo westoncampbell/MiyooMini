@@ -1,30 +1,41 @@
-**Amstrad - CPC**
+## Amstrad - CPC
 
-- Emulator: CrocoDS `crocods_libretro.so`
-- Rom Folder: Amstrad - CPC (CPC)
-- Extensions: .cpc .dsk .zip .7z
-- Bios: None
+**Emulator**: CrocoDS `crocods_libretro.so`</br>
+**Rom Folder**: Amstrad - CPC (CPC)</br>
+**Extensions**: .cpc .dsk .zip .7z</br>
+**Bios**: None</br>
 
-**Arcade - Capcom Play System 1 **
+## Arcade - Capcom Play System
 
-- Emulator: FB Alpha 2012 CPS-1 `fbalpha2012_cps1_libretro.so`
-- Rom Folder: Arcade - Capcom Play System 1 (CPS1)
-- Extensions:
-- Bios: None
+- **Emulator**: FB Alpha 2012 CPS-1 `fbalpha2012_cps1_libretro.so`
+- **Rom Folder**: Arcade - Capcom Play System 1 (CPS1)
+- **Extensions**:
+- **Bios**: None
 
-**Arcade - Capcom Play System 2 **
+## Arcade - Capcom Play System 2
 
-- Emulator: FB Alpha 2012 CPS-2 `fbalpha2012_cps2_libretro.so`
-- Rom Folder: Arcade - Capcom Play System 2 (CPS2)
-- Extensions:
-- Bios: None
+- **Emulator**: FB Alpha 2012 CPS-2 `fbalpha2012_cps2_libretro.so`
+- **Rom Folder**: Arcade - Capcom Play System 2 (CPS2)
+- **Extensions**:
+- **Bios**: None
 
-**Arcade - Capcom Play System 3 **
+## Arcade - Capcom Play System 3
 
-- Emulator: FB Alpha 2012 CPS-3 `fbalpha2012_cps3_libretro.so`
-- Rom Folder: Arcade - Capcom Play System 3 (CPS3)
-- Extensions:
-- Bios: None
+- **Emulator**: FB Alpha 2012 CPS-3 `fbalpha2012_cps3_libretro.so`
+- **Rom Folder**: Arcade - Capcom Play System 3 (CPS3)
+- **Extensions**:
+- **Bios**: None
+
+## Arcade - FinalBurn Alpha
+
+- **Emulator**: FB Alpha `fbalpha_libretro.so`
+- **Rom Folder**: Arcade - Capcom Play System 3 (CPS3)
+- **Extensions**:
+- **Bios**: neogeo.zip
+
+
+
+
 
 
 
