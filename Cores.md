@@ -30,9 +30,9 @@ Emulators:
 - Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. [https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)](https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS))
 
 
-| System | PAK name | Core | Default ROM Folder | ROM Extensions | Requires BIOS? |
-| ------ | -------- | ---- | ------------------ | -------------- |--------------- |
-| Amstrad - CPC | `CPC.pak` | `crocods_libretro.so` | Amstrad - CPC (CPC) | `.cpc` `.dsk` `.zip` `.7z` | No |
+| System        | PAK name  | Core                  | Default ROM Folder  | ROM Extensions             | Requires BIOS? |
+| ------------- | --------- | --------------------- | ------------------- | -------------------------- |--------------- |
+| Amstrad - CPC | `CPC.pak` | `crocods_libretro.so` | Amstrad - CPC (CPC) | `.cpc` `.dsk` `.zip` `.7z` | No             |
 
 
 
