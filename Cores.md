@@ -1,3 +1,13 @@
+System: Amstrad - CPC
+PAK Name: CPC.pak
+Core: CrocoDS `crocods_libretro.so`
+ROM Folder: Amstrad - CPC (CPC)
+ROM Extensions: ???
+Bios: None
+
+
+
+
 Important Notes: 
 
 All bios files go into the BIOS folder located on the root of your SD unless specifically stated otherwise in the emulators list below. Bios file names and extensions are case sensitive!
