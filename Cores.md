@@ -32,10 +32,10 @@ Emulators:
 
 | System | PAK name | Core | Default ROM Folder | ROM Extensions | Requires BIOS? |
 | ------ | ---------| ---- | ------------------ | -------------- |--------------- |
-| Amstrad - CPC | `CPC.pak` | CrocoDS `crocods_libretro.so` | Amstrad - CPC (CPC) | `.cpc` `.dsk` `.zip` `.7z` | No |
-| Arcade - Capcom Play System 1 | CPS1.pak | FB Alpha 2012 CPS-1 `fbalpha2012_cps1_libretro.so` | Arcade - Capcom Play System 1 (CPS1) | `.zip` `.7z` `.cue`  | No |
-| Arcade - Capcom Play System 2 | CPS2.pak | FB Alpha 2012 CPS-2 `fbalpha2012_cps2_libretro.so` | Arcade - Capcom Play System 2 (CPS1) | `.zip` `.7z` `.cue`  | No |
-| Arcade - Capcom Play System 3 | CPS3.pak | FB Alpha 2012 CPS-3 `fbalpha2012_cps3_libretro.so` | Arcade - Capcom Play System 3 (CPS1) | `.zip` `.7z` `.cue`  | No |
+| Amstrad - CPC | `CPC.pak` | CrocoDS<br/>`crocods_libretro.so` | Amstrad - CPC (CPC) | `.cpc` `.dsk` `.zip` `.7z` | No |
+| Arcade - Capcom Play System 1 | CPS1.pak | FB Alpha 2012 CPS-1<br/>`fbalpha2012_cps1_libretro.so` | Arcade - Capcom Play System 1 (CPS1) | `.zip` `.7z` `.cue`  | No |
+| Arcade - Capcom Play System 2 | CPS2.pak | FB Alpha 2012 CPS-2<br/>`fbalpha2012_cps2_libretro.so` | Arcade - Capcom Play System 2 (CPS1) | `.zip` `.7z` `.cue`  | No |
+| Arcade - Capcom Play System 3 | CPS3.pak | FB Alpha 2012 CPS-3<br/>`fbalpha2012_cps3_libretro.so` | Arcade - Capcom Play System 3 (CPS1) | `.zip` `.7z` `.cue`  | No |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
