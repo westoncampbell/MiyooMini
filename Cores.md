@@ -1,23 +1,11 @@
 Amstrad - CPC
 
-- PAK Name: CPC.pak
+- PAK Name: package CPC.pak
 - Core: CrocoDS `crocods_libretro.so`
-- ROM Folder: Amstrad - CPC (CPC)
+- ROM Folder: :file_folder:	 Amstrad - CPC (CPC)
 - ROM Extensions: ???
 - Bios: None
 
-
-**Amstrad - CPC**
-
-***PAK Name***
-CPC.pak
-
-***Core***
-CrocoDS `crocods_libretro.so`
-
-- ROM Folder: Amstrad - CPC (CPC)
-- ROM Extensions: ???
-- Bios: None
 
 
 
